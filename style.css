@@ -20,10 +20,16 @@ h3 {
     font-size: 20px
 }
 h4 {
-    color: black
+    color: deepskyblue
 }
 h5 {
     color: blue
+}
+h6 {
+    font-size: 15px;
+    text-align: center;
+    color: lightskyblue;
+    font-family: monospace;
 }
 p {
   color: black;
@@ -41,3 +47,4 @@ img {
   float: left;
   margin: 20px;
 }
+    
