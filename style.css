@@ -45,6 +45,8 @@ img {
   width: auto;
   height: 250px;
   float: left;
-  margin: 20px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
     
