@@ -42,7 +42,7 @@ li {
   color: black
 }
 img {
-  width: 500px;
+  width: auto;
   height: 250px;
   float: left;
   margin: 20px;
